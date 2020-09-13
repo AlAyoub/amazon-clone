@@ -50,9 +50,9 @@ function Home() {
 
                 <Product
                     id={123455}
-                    title="M-Audio Axiom AIR Mini 32 | Ultra-Portable 32 Key USB MIDI Keyboard Controller With 8 Trigger Pads & A Full-Consignment of Production/Performance Ready Controls"
-                    price={106.95}
-                    image="https://images-na.ssl-images-amazon.com/images/I/51PIvF7FI%2BL._AC_SL1040_.jpg"
+                    title="Official Logo ReactJS React.js JavaScript Framework T-Shirt"
+                    price={22.99}
+                    image="https://m.media-amazon.com/images/I/718rODz+mFL._AC_UL480_FMwebp_QL65_.jpg"
                     rating={5}
                 />
             </div>
@@ -61,7 +61,7 @@ function Home() {
                 <Product
                     id={123455}
                     title="New Apple iMac with Retina 5K Display (27-inch, 8GB RAM, 256GB SSD Storage)"
-                    price={1799.93}
+                    price={1799.99}
                     image="https://images-na.ssl-images-amazon.com/images/I/71KR2i6-WaL._AC_SL1500_.jpg"
                     rating={5}
                 />
